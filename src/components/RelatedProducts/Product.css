@@ -1,0 +1,15 @@
+.Image-container{
+    display: flex;
+    margin: 70px;
+}
+.Heading-parent{
+    display: flex;
+    justify-content: center;
+}
+
+.Image-container img{
+    width:250px;
+    height:300px;
+    margin:15px;
+    
+}

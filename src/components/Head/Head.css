@@ -1,0 +1,31 @@
+.container{
+    background-color: whitesmoke;
+}
+
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Navbar ul li{
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+
+.conatiner .Navbar ul{
+    /* flex:1; */
+    text-align: right;
+}
+
+.Header-foot{
+    background-color: #171717;
+    display: flex;
+    justify-content: center;
+}
+
+.Header-foot h4{
+    color: white;
+}

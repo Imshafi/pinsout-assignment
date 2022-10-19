@@ -1,0 +1,19 @@
+.container-main{
+    display: flex;
+
+}
+
+.Images{
+    
+    width:50%;
+}
+
+.Images img{
+    height:400px;
+    width:550px;
+    margin:70px;
+}
+
+.product-details{
+    margin-top: 70px;
+}

@@ -1,0 +1,20 @@
+
+.three{
+    display: flex;
+    justify-content: center;
+}
+
+.des, .spe, .rew{
+    padding: 10px;
+}
+
+.para{
+    margin:70px;
+}
+
+.below-four{
+    display: flex;
+    margin:70px;
+    padding-right: 40px;
+}
+
